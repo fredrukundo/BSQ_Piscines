@@ -29,16 +29,16 @@ This project demonstrates key concepts such as dynamic programming, memory manag
 ## Compling
 
 You can run the program by providing a map file as an argument:
-``
+```
 git clone link
 make
 ./bsq map.txt
-``
+```
 Alternatively, you can provide the map via standard input:
 
-``
+```
 cat map.txt | ./bsq
-``
+```
 ## Map Format
 
 The map must follow a specific format:
@@ -51,7 +51,7 @@ The map must follow a specific format:
 
 - Example:
 
-``
+```
 9.ox
 .........
 ...o.....
@@ -62,4 +62,4 @@ The map must follow a specific format:
 .........
 o........
 .........
-``
+```
