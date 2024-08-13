@@ -4,7 +4,7 @@
 
 The BSQ project is a C program that finds the largest possible square in a grid-based map without encountering any obstacles. The map provided either as a file or through standard input, consists of a grid where each cell can be empty or contain an obstacle. The program scans the map, determines the largest square that can be drawn, and visually marks it.
 
-This project demonstrates key concepts such as dynamic programming, memory management, file I/O and efficient algorithm design in C.
+This project demonstrates key concepts such as dynamic programming, memory management file I/O and efficient algorithm design in C.
 
 ## Features
 
