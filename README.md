@@ -8,7 +8,7 @@ This project demonstrates key concepts such as dynamic programming, memory manag
 
 ## Features
 
-* Flexible input: The program can process map data from both files and standard input.
+* <b>Flexible input:</b> The program can process map data from both files and standard input.
 * Dynamic Memory Allocation: Efficiently handles large maps by dynamically allocating memory as needed
 * Error Handling: Comprehensive error handling ensures that invalid maps or input errors are gracefully reported.
 * Debugging Support: Optional debugging output provides insights into the internal state of the algorithm, showing the dynamic programming matrix used to calculate the largest square.
