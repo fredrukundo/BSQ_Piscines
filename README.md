@@ -20,7 +20,7 @@ This project demonstrates key concepts such as dynamic programming, memory manag
 
 2. Matrix Calculation: The program constructs a dynamic programming matrix, where each cell represents the size of the largest square that can end at that position without encountering an obstacle.
 
-3. Square Identification: As it processes the matrix, the program keeps track of the largest square found, recording its size and position.
+3. Square Identification: As it processes the matrix the program keeps track of the largest square found, recording its size and position.
 
 4. Map Visualization: The largest square is then marked on the map using the filler character, and the result is printed.
 
