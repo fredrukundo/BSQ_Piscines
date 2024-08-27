@@ -12,7 +12,7 @@ This project demonstrates key concepts such as dynamic programming, memory manag
 * <b>Dynamic Memory Allocation:</b> Efficiently handles large maps by dynamically allocating memory as needed
 * <b>Error Handling:</b> Comprehensive error handling ensures that invalid maps or input errors are gracefully reported
 * <b>Debugging Support:</b> Optional debugging output provides insights into the internal state of the algorithm, showing the dynamic programming matrix used to calculate the largest square
-* <b>Efficient Computation:</b> Utilizes a dynamic programming approach to compute the largest square in O(n*m) time where n and m are the dimensions of the map.
+* <b>Efficient Computation:</b> Utilizes a dynamic programming approach to compute the largest square in O(n*m) time where n and m are the dimensions of the map
 
 ## How it works
 
