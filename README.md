@@ -24,7 +24,7 @@ This project demonstrates key concepts such as dynamic programming, memory manag
 
 4. Map Visualization: The largest square is then marked on the map using the filler character and the result is printed.
 
-5. Debugging Mode: If enabled the program also prints the dynamic programming matrix for debugging purposes.
+5. Debugging Mode: If enabled the program also prints the dynamic programming matrix for debugging purposes
 
 ## Compling
 
