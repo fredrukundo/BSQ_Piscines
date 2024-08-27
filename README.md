@@ -61,7 +61,7 @@ The map must follow a specific format:
    * Number of lines in the map
    * The character representing empty spaces
    * The character representing obstacles
-   * The character used to fill the largest square
+   * The character used to fill the largest square.
 
 - Example:
 
