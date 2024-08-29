@@ -23,7 +23,7 @@ This project demonstrates key concepts such as dynamic programming, memory manag
 
 3. Square Identification: As it processes the matrix the program keeps track of the largest square found, recording its size and position.
 
-4. Map Visualization: The largest square is then marked on the map using the filler character and the result is printed
+4. Map Visualization: The largest square is then marked on the map using the filler character and the result is printed.
 
 5. Debugging Mode: If enabled the program also prints the dynamic programming matrix for debugging purposes.
 
