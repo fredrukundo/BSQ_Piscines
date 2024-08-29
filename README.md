@@ -29,7 +29,7 @@ This project demonstrates key concepts such as dynamic programming, memory manag
 
 ## Compling
 
-You can run the program by providing a map file as an argument:
+You can run the program by providing a map file as an argument
 ```
 git clone link
 make
